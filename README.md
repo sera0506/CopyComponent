@@ -1,2 +1,2 @@
 # CopyComponent
-![gif](http://imgur.com/LJDzkJz.gif)
+![gif](http://i.imgur.com/LJDzkJz.gif)
